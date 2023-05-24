@@ -9,32 +9,22 @@
 
 a {
     color: #ffffff;
-    padding: 5px;
-    font-style: normal;
 }
 
 p {
     font-size: 19px;
     color: #000000;
-    font-weight: normal;
-    text-decoration: none;
-    font-style: normal;
-    font-variant: normal;
-    text-transform: none;
 }
 
 .avatar {
     display: block;
     border-radius: 200px;
-    box-sizing: border-box;
-    background-color: #DDD;
-    border: 1px solid #404d5b;
+    background: #d8e1fe;
 }
 
 img {
-    max-width: 150px;
-    max-height: 150px;
-    padding: 5px;
+    max-width: 165px;
+    max-height: 165px;
 }
 
 .row {
