@@ -9,6 +9,7 @@
 
 a {
     color: #ffffff;
+    padding: 2px;
 }
 
 p {
@@ -17,7 +18,6 @@ p {
 }
 
 .avatar {
-    display: block;
     border-radius: 200px;
     background: #d8e1fe;
 }
