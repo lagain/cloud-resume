@@ -4,9 +4,7 @@
 
 .header {
     font-size: 60px;
-    color: #ffffff;
-    margin: 5%;
-    word-wrap: break-word;
+    color: #000000;
 }
 
 a {
@@ -24,30 +22,15 @@ img {
     max-height: 165px;
 }
 
-.row {
-    display: flex;
-}
-
 .column {
     float: left;
     padding: 1%;
 }
 
-.left {
-    width: 10%;
-    padding: 20px;
-}
 
-.right {
-    width: 90%;
-    color:#000000;
-    background-color: #ffffff;
-    font-size: 20px;
-    padding: 40px;
-}
 
 .resume-content {
-    padding: 60px;
+    padding: 20px;
 }
 
 
